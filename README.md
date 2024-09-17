@@ -28,7 +28,7 @@
 
 具体请看图
 
-![Screenshot 2024-09-07 at 10.13.12 AM.png](https://image.derrity-geek.org/i/2024/09/07/66dbb6beeaed6.png)
+![Screenshot 2024-09-07 at 10.13.12 AM.png](img/66dbb6beeaed6.png)
 
 
 
@@ -112,7 +112,7 @@
 
 
 
-![7g4kckddvp.jpeg](https://image.derrity-geek.org/i/2024/09/07/66dbff6487b71.jpeg)
+![7g4kckddvp.jpeg](img/66dbff6487b71.jpeg)
 
 
 
@@ -569,9 +569,9 @@ int main(int argc, char *argv[]){
 
 ~~忘记说了 你需要先安装 `libcurl4-openssl-dev` 编译的时候记得链接到 `libcurl` `pthread`~~
 
-![Screenshot 2024-09-07 at 4.41.46 PM.png](https://image.derrity-geek.org/i/2024/09/07/66dc11d4bb5b3.png)
+![Screenshot 2024-09-07 at 4.41.46 PM.png](img/66dc11d4bb5b3.png)
 
-![Screenshot 2024-09-07 at 4.42.33 PM.png](https://image.derrity-geek.org/i/2024/09/07/66dc120222056.png)
+![Screenshot 2024-09-07 at 4.42.33 PM.png](img/66dc120222056.png)
 
 
 
